@@ -1,8 +1,22 @@
-### SONG HYEONG JIN 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgitFILO&count_bg=%23773DC8&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Welcome! 🙋‍♂️
+I'm Hyeongin Song(송형진). I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=x2xgudwls)](https://solved.ac/x2xgudwls/)
+### 💻 Skills
+- **Language:** C, Java, JavaScript, Python
+- **Backend:** NextJS, Flask, Spring
+- **Frontend:** NextJS, React
+- **Infrastructure:** Docker, AWS
+- **DB:** PostgreSQL
 
+### 👨‍💻 Projects
+- [PintOS](https://github.com/jinsu868/Chick-backend) (Implementation of Key OS Functions: Process Scheduling, System Calls, and Virtual Memory System) (2023.11 ~ 2023.12)
+- [Digest](https://github.com/Palgona/Backend) (One-Click AI YouTube Summary Service) (2023.12 ~ 2024.02)
+- [GrabTable](https://github.com/GrabTable/GrabTable) (Shared Payment Supported Restaurant Reservation Service) (2024.03 ~)
+
+
+### 📫 Contact
+- x2xgudwls@gmail.com
+  
 <!--
 **gitFILO/gitFILO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
