@@ -14,8 +14,8 @@ I'm Hyeongin Song(송형진). I am an engineer who loves analyzing the complex a
 - DevOps
 
 ### 👨‍💻 Projects
-- [PintOS](https://github.com/jinsu868/Chick-backend) (Implementation of Key OS Functions: Process Scheduling, System Calls, and Virtual Memory System) (2023.11 ~ 2023.12)
-- [Digest](https://github.com/Palgona/Backend) (One-Click AI YouTube Summary Service) (2023.12 ~ 2024.02)
+- [PintOS](https://github.com/gitFILO/pintos-kaist) (Implementation of Key OS Functions: Process Scheduling, System Calls, and Virtual Memory System) (2023.11 ~ 2023.12)
+- [Digest](https://github.com/jungle-digestify/digestify) (One-Click AI YouTube Summary Service) (2023.12 ~ 2024.02)
 - [GrabTable](https://github.com/GrabTable/GrabTable) (Shared Payment Supported Restaurant Reservation Service) (2024.03 ~)
 
 ### 📫 Contact
