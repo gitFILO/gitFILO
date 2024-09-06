@@ -1,5 +1,5 @@
 ### Welcome! 🙋‍♂️
-I'm Hyeongin Song(송형진). I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
+I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
 
 ### 💻 Skills
 - **Language:** C, Java, JavaScript, Python
