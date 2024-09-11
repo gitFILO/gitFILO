@@ -2,7 +2,7 @@
 I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
 
 ### 💻 Skills
-- **Language:** C, Java, JavaScript, Python
+- **Language:** C, Java, JavaScript, Python, Golang
 - **Backend:** NextJS, Flask, Spring
 - **Frontend:** NextJS, React
 - **Infrastructure:** Docker, AWS
@@ -17,6 +17,11 @@ I am an engineer who loves analyzing the complex architectures of system softwar
 - [PintOS](https://github.com/gitFILO/pintos-kaist) (Implementation of Key OS Functions: Process Scheduling, System Calls, and Virtual Memory System) (2023.11 ~ 2023.12)
 - [Digest](https://github.com/jungle-digestify/digestify) (One-Click AI YouTube Summary Service) (2023.12 ~ 2024.02)
 - [GrabTable](https://github.com/GrabTable/GrabTable) (Shared Payment Supported Restaurant Reservation Service) (2024.03 ~)
+
+### 🥇 Certification [credly](https://www.credly.com/earner/earned/badge/bd069dcc-76a7-4ed8-b801-3bb98248710c)
+<a href="https://www.credly.com/earner/earned/badge/bd069dcc-76a7-4ed8-b801-3bb98248710c">
+<img src="https://github.com/user-attachments/assets/803bb84f-7afa-4400-92f2-a9f42971c42f" alt="CKA" width="100" height="100">
+</a>
 
 ### 📫 Contact
 - x2xgudwls@gmail.com
