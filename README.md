@@ -4,7 +4,7 @@ I'm Hyeongjin Song(송형진). I am an engineer who loves analyzing the complex 
 ### 💻 Skills
 - **Language:** C, Java, JavaScript, C++, Python, Golang
 - **Backend:** NextJS, Flask, Spring
-- **Frontend:** NextJS, React
+- **Frontend:** NextJS
 - **Infrastructure:** Docker, AWS
 - **DB:** PostgreSQL, MySQL
 
