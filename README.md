@@ -1,12 +1,12 @@
 ### Welcome! 🙋‍♂️
-I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
+I'm Hyeongjin Song(송형진). I am an engineer who loves analyzing the complex architectures of system software and backend! My goal is to improve systems to provide a better user experience.
 
 ### 💻 Skills
-- **Language:** C, Java, JavaScript, Python, Golang
+- **Language:** C, Java, JavaScript, C++, Python, Golang
 - **Backend:** NextJS, Flask, Spring
 - **Frontend:** NextJS, React
 - **Infrastructure:** Docker, AWS
-- **DB:** PostgreSQL
+- **DB:** PostgreSQL, MySQL
 
 ### 💖 Interests
 - System Software
@@ -24,12 +24,12 @@ I am an engineer who loves analyzing the complex architectures of system softwar
 </a>
 
 ### 📫 Contact
-- x2xgudwls@gmail.com
+- x1xgudwls@naver.com
 
 ### 🏃 Ongoings
 - [GrabTable](https://github.com/GrabTable/GrabTable) (Shared Payment Supported Restaurant Reservation Service) (2024.03 ~)
-- [Filog](https://filog-fawn.vercel.app) (Currently migrating..) (2024.04 ~)
-- [WakeMate] (Location-based verification and Automatic penalty management wake-up Study Service) (2024. 08 ~) 
+- [WakeMate](https://github.com/gitFILO/wakeupmate) (Location-based verification and Automatic penalty management wake-up Study Service) (2024. 08 ~)
+- Building Crack Detection and Risk Assessment Platform (2024.10 ~)
 
 <!--
 **gitFILO/gitFILO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
