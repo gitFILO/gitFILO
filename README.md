@@ -28,9 +28,6 @@ I'm Hyeongjin Song(송형진). I am an engineer who loves analyzing the complex 
 
 ### 🏃 Ongoings
 - [GrabTable](https://github.com/GrabTable/GrabTable) (Shared Payment Supported Restaurant Reservation Service) (2024.03 ~)
-- [WakeMate](https://github.com/gitFILO/wakeupmate) (Location-based verification and Automatic penalty management wake-up Study Service) (2024. 08 ~)
-- Building Crack Detection and Risk Assessment Platform (2024.10 ~)
-
 <!--
 **gitFILO/gitFILO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
